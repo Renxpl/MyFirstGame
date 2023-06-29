@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Border
+  - Enemy
+  - Wall
+  - EnemyHitbox
+  - Trampoline
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1942216867
+    locked: 0
+  - name: Ground
+    uniqueID: 200698855
+    locked: 0
+  - name: Objects
+    uniqueID: 663777405
+    locked: 0
+  - name: enemy
+    uniqueID: 3599441493
+    locked: 0
+  - name: Player
+    uniqueID: 2058596151
+    locked: 0
